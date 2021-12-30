@@ -1,0 +1,54 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "learn react"
+    },
+    {
+      "title": "learn react",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "learn vew ",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "qwerty",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "add this ",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "asdff",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "scscs",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "happy ",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "scsc",
+      "status": false,
+      "id": 9
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "vinay"
+    }
+  ]
+}
